@@ -21,7 +21,7 @@ const Product = () => (
             להתאים גם לחתול אחד
           </p>
           <div className="product-price">
-            <h3>300 ש"ח</h3>
+            <h3>300 ש"ח </h3>
           </div>
         </div>
         <div className="product-review-avg">
